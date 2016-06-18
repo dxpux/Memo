@@ -8,3 +8,4 @@ GitHub 支援線上編輯
 We've detected the file encoding as Big5. When you commit changes we will transcode it to UTF-8.
 
 Amend last commint 修改最後一次更新。
+效果相當於 Reset Mixed 到上一版, 再 Commit. (Mixed 會在 master  node 移動時，並不同步修改工作目錄)
