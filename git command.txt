@@ -1,0 +1,8 @@
+﻿如果你裝了 Git for Windows，可以不用特別去設置 git 的環境變數，
+右鍵即可點選 "Git Bash Here" 一般的 git 指令，在這已夠用。
+
+當然，安裝 TortoiseGit 也很方便
+
+GitHub 支援線上編輯
+線上編輯時，曾遇到編碼問題
+We've detected the file encoding as Big5. When you commit changes we will transcode it to UTF-8.
